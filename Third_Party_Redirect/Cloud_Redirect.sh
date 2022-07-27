@@ -45,13 +45,13 @@ do
 	if [[ ! -z $(which curl) ]]; then
 		curlwget="curl"
 		until [[ -f $MODDIR/Redirect.prop ]]; do
-			curl -O 'https://raw.githubusercontent.com/sxkiss/sxkiss/Third_Party_Redirect/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
+			curl -O 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
 			sleep 2
 		done
 	elif [[ ! -z $(which wget) ]]; then
 		curlwget="wget"
 		until [[ -f $MODDIR/Redirect.prop ]]; do
-			wget 'https://raw.githubusercontent.com/sxkiss/sxkiss/Third_Party_Redirect/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
+			wget 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
 			sleep 2
 		done
 	fi
@@ -68,7 +68,7 @@ do
 
 		until [[ -f $MODDIR/Run_Redirect.sh ]]; do
 			if [[ $curlwget == "curl" ]]; then
-				curl -O 'https://raw.githubusercontent.com/sxkiss/sxkiss/Third_Party_Redirect/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
+				curl -O 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
 			elif [[ $curlwget == "wget" ]]; then
 				wget 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Run_Redirect.sh' >/dev/null 2>&1
 			fi
