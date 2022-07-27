@@ -15,3 +15,5 @@ author=落葉淒涼(高雄佬) & 阿巴酱
 description=请等待刷新..
 
 VersionNumber=20210620
+下载最新 
+https://github.com/sxkiss/sxkiss/blob/master/Third_Party_Redirect/Third_Party_Redirect.zip?raw=true
