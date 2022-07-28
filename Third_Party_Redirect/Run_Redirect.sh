@@ -50,6 +50,11 @@ OFF="
 请将此页面截图并说明问题
 
 更新内容:
+#202207281440
+apkpure  /storage/emulated/0Android/data/com.apkpure.aegon/files/download 
+葫芦侠三楼 /storage/emulated/0/Android/data/com.huati/downloads
+ tg新  /storage/emulated/0/Android/data/org.telegram.messenger/files/Telegram/Telegram Documents
+云更新地址修改 反馈增加规则admin@sxkiss.com
 #202107311440
 脚本优化
 
@@ -214,6 +219,8 @@ Music() {
 
 
 # 正常默认下载目录
+Download '葫芦侠3楼应用商店' 'Android/data/com.huati/downloads'
+Download 'apkpure应用商店' 'Android/data/com.apkpure.aegon/files/download'
 Download 'QQ' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
 Download 'QQ·' 'Android/files/com.tencent.mobileqq/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
 Download 'QQ.' 'Tencent/QQfile_recv'
@@ -259,6 +266,7 @@ Download 'Chrome' '/Android/data/com.android.chrome/files/Download'
 Download 'NeKogram' 'Android/data/nekox.messenger/files/documents'
 Download 'Nekogram.' 'Android/data/tw.nekomimi.nekogram/files/Telegram/Telegram Documents'
 Download 'Nekogram-X' 'NekoX'
+Download 'TG.2' 'Android/data/org.telegram.messenger/files/Telegram/Telegram Documents/'
 Download 'TG.' 'Telegram/Telegram Documents'
 Download 'TG-X' 'Android/data/org.thunderdog.challegram/files/documents'
 Download 'TG--X' 'Android/data/taipei.sean.challegram'
