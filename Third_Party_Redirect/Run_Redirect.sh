@@ -3,7 +3,7 @@
 # 酷安@阿巴酱(Petit Abba)
 # 所有路径都已验证(√)
 #sxkiss修改库-未更改任何核心代码-只改了规则和云更新地址-欢迎反馈提交-admin@sxkiss.com
-Version="202207281440"
+Version="202207281441"
 
 #绝对路径
 if [[ -d /data/adb/modules/Third_Party_Redirect ]]; then
