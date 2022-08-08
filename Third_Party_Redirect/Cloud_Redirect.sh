@@ -51,7 +51,7 @@ do
 	elif [[ ! -z $(which wget) ]]; then
 		curlwget="wget"
 		until [[ -f $MODDIR/Redirect.prop ]]; do
-			wget 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Redirect.sh' >/dev/null 2>&1
+			wget 'https://raw.githubusercontent.com/sxkiss/sxkiss/master/Third_Party_Redirect/Redirect.prop' >/dev/null 2>&1
 			sleep 2
 		done
 	fi
