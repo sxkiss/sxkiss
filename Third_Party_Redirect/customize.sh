@@ -28,6 +28,7 @@ if [[ ! -d $paths ]]; then
 fi
 
 MyPrint " "
+MyPrint "最新v5.2.6:修复ping 网络判断失败，无法更新云规则，云端仓库改为国内镜像地址同步 "
 MyPrint "(&) v5.2.2更新："
 MyPrint "- ① 修复一键执行后部分设备无效问题"
 MyPrint "- ② 修复卸载模块后部分设备无法删除模块生成的文件夹问题"
