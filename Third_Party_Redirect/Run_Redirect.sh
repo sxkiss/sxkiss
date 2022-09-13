@@ -223,7 +223,6 @@ Music() {
 
 
 # 正常默认下载目录
-/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/
 
 Download 'QQ4' 'com.tencent.mobileqq/Tencent/QQfile_recv/'
 Download '葫芦侠3楼应用商店' 'Android/data/com.huati/downloads'
