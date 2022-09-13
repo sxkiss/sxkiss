@@ -3,6 +3,7 @@
 # 酷安@阿巴酱(Petit Abba)
 # 所有路径都已验证(√)
 #sxkiss修改库-未更改任何核心代码-只改了规则和云更新地址-欢迎反馈提交-admin@sxkiss.com
+#蓝奏云:https://sxkiss.lanzoul.com/b0byz8cmd 密码:6666
 Version="2022091350"
 
 #绝对路径
@@ -52,6 +53,7 @@ OFF="
 
 更新内容:
 #20220913
+#模块蓝奏云https://sxkiss.lanzoul.com/b0byz8cmd 密码:6666
 #修复验证ping 网络延迟测试失败，规则无法更新
 #国内访问加速github raw国内镜像访问
 #202200808
