@@ -223,10 +223,13 @@ Music() {
 
 
 # 正常默认下载目录
+/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/
+
+Download 'QQ4' 'com.tencent.mobileqq/Tencent/QQfile_recv/'
 Download '葫芦侠3楼应用商店' 'Android/data/com.huati/downloads'
 Download 'apkpure应用商店' 'Android/data/com.apkpure.aegon/files/download'
-Download 'QQ' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
-Download 'QQ·' 'Android/files/com.tencent.mobileqq/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
+Download 'QQ3' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
+Download 'QQ2·' 'Android/files/com.tencent.mobileqq/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv'
 Download 'QQ.' 'Tencent/QQfile_recv'
 Download 'QQ极速版' 'tencent/QQfile_recv'
 Download 'TIM' 'Android/data/com.tencent.tim/Tencent/TIMfile_recv'
