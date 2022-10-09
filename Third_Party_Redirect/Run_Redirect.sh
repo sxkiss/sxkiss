@@ -228,6 +228,7 @@ Music() {
 
 
 # 正常默认下载目录
+Download 'QQ2' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/'
 Download 'TG.3' 'Android/data/org.telegram.messenger/files/Telegram/Telegram Files/'
 Download 'QQ4' 'com.tencent.mobileqq/Tencent/QQfile_recv/'
 Download '葫芦侠3楼应用商店' 'Android/data/com.huati/downloads'
