@@ -4,7 +4,7 @@
 # 所有路径都已验证(√)
 #sxkiss修改库-未更改任何核心代码-只改了规则和云更新地址-欢迎反馈提交-admin@sxkiss.com
 #蓝奏云:https://sxkiss.lanzoul.com/b0byz8cmd 密码:6666
-Version="2022091350"
+Version="2022091352"
 
 #绝对路径
 if [[ -d /data/adb/modules/Third_Party_Redirect ]]; then
@@ -59,7 +59,7 @@ OFF="
 #202200808
 #更新了个寂寞
 #202207281440
-
+Tg改版 /storage/emulated/0/Android/data/org.telegram.messenger.web/files/Telegram/Telegram Files/
 apkpure  /storage/emulated/0Android/data/com.apkpure.aegon/files/download 
 葫芦侠三楼 /storage/emulated/0/Android/data/com.huati/downloads
  tg新  /storage/emulated/0/Android/data/org.telegram.messenger/files/Telegram/Telegram Documents
@@ -229,6 +229,7 @@ Music() {
 
 # 正常默认下载目录
 Download 'QQ2' 'Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/'
+Download 'TG.4' 'Android/data/org.telegram.messenger.web/files/Telegram/Telegram Files/'
 Download 'TG.3' 'Android/data/org.telegram.messenger/files/Telegram/Telegram Files/'
 Download 'QQ4' 'com.tencent.mobileqq/Tencent/QQfile_recv/'
 Download '葫芦侠3楼应用商店' 'Android/data/com.huati/downloads'
